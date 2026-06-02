@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "이력서"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,51 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+경력
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **회장 및 CEO 개인비서**
+  * 국제산공(주)
+  * 회장 및 CEO 일정 조율, 출장·행사 기획·운영
+  * 기밀 문서 관리 및 의사결정 지원 보고서 작성
+  * 사내외 주요 커뮤니케이션 창구 역할 수행
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **인사관리자**
+  * 국제산공(주)
+  * 채용 공고, 면접 운영, 온보딩 프로세스 설계
+  * 급여·복리후생·근태 관리 및 노무 업무
+  * 사내 교육 프로그램 및 조직 문화 활동 운영
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **온라인몰 상세페이지 MD · CS 담당자**
+  * NC백화점 온라인몰
+  * 상품 상세페이지 기획·콘텐츠 작성 및 업로드
+  * 고객 문의·클레임 응대 및 VOC 데이터 분석
+  * 프로모션 기획 및 상품 운영 전략 수립 참여
 
-Publications
+교육
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+
+* **UX/UI 디자이너 부트캠프 수료**
+  * 사용자 조사·퍼소나·고객 여정 지도 작성
+  * 와이어프레임·프로토타입 제작 (Figma)
+  * UI 디자인 시스템 구축 및 가이드라인 작성
+
+역량
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+* 경영 지원 & 커뮤니케이션
+  * 임원 일정 관리 및 보고서 작성
+  * 대내외 커뮤니케이션 조율
+* 인사 관리 (HR)
+  * 채용·온보딩·급여·노무
+  * 조직 문화 및 교육 프로그램 운영
+* 이커머스
+  * 상품 기획 및 콘텐츠 전략
+  * CS 운영 및 VOC 분석
+* UX/UI 디자인
+  * Figma, Framer, Adobe Illustrator
+  * 사용자 리서치, 프로토타이핑
+* 3D & 시각 디자인
+  * Blender
+
+> 📅 최종 업데이트: 2026년 6월 2일
