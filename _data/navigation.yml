@@ -2,11 +2,14 @@ main:
   - title: "소개"
     url: /about/
 
+  - title: "이력서"
+    url: /cv/
+
   - title: "포트폴리오"
     url: /portfolio/
 
+  - title: "자격증"
+    url: /certifications/
+
   - title: "블로그"
     url: /year-archive/
-
-  - title: "이력서"
-    url: /cv/
