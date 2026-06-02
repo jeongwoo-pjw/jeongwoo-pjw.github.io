@@ -27,6 +27,8 @@ redirect_from:
   * 고객 문의·클레임 응대 및 VOC 데이터 분석
   * 프로모션 기획 및 상품 운영 전략 수립 참여
 
+<div style="margin-bottom: 4em;"></div>
+
 학력
 ======
 
@@ -39,12 +41,16 @@ redirect_from:
 
 * **서울여자고등학교 졸업** `2016`
 
+<div style="margin-bottom: 4em;"></div>
+
 자격증
 ======
 
 * GTQI 1급
 * 전산회계 1급
 * MOS PowerPoint
+
+<div style="margin-bottom: 4em;"></div>
 
 역량
 ======
