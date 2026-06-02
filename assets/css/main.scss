@@ -41,3 +41,40 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* ===== Custom Overrides ===== */
+
+.page__content {
+
+  /* 섹션 제목(h2) 위 여백 확대 */
+  h2 {
+    margin-top: 3.5em;
+    margin-bottom: 1em;
+  }
+
+  /* 구분선 상하 여백 확대 */
+  hr {
+    margin: 2.5em 0;
+  }
+
+  /* 최상위 리스트 아이템 간격 확대 */
+  > ul > li,
+  > ol > li {
+    margin-bottom: 1.8em;
+    line-height: 1.75;
+  }
+
+  /* 중첩 리스트(부가 설명) 텍스트 축소 */
+  li li {
+    font-size: 0.82em;
+    color: var(--global-text-color-light);
+    margin-bottom: 0.35em;
+    line-height: 1.6;
+  }
+
+  /* 단락 하단 여백 확대 */
+  p {
+    margin-bottom: 1.6em;
+    line-height: 1.85;
+  }
+}
